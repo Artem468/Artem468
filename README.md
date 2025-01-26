@@ -24,6 +24,10 @@
 
 [![Codewars](https://www.codewars.com/users/BALDEZH/badges/large)](https://www.codewars.com/users/BALDEZH)
 
+## Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Artem468&theme=onedark)](https://github.com/ryo-ma/github-profile-Artem468)
+
 ## Stats
 
 <div style="display: flex; gap: 16px; align-items: flex-start;">
