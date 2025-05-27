@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb"/>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,kali,graphql,github,githubactions"/>
+    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,kali,graphql,github,githubactions"/>
 </p>
 
 ## Codewars
